@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Formação Front-End Alura - Pedro H R C Tirelli
 
 Rápida descrição do objetivo de fazer esse projeto
 
